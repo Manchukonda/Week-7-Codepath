@@ -1,7 +1,7 @@
 # Week-7-Codepath-hm1089
 # Project 7 - WordPress Pentesting
 
-Time spent: 20 hours spent in total
+Time spent: 8 hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
