@@ -21,7 +21,7 @@ Time spent: 8 hours spent in total
     - [Reference] (https://www.wpwhitesecurity.com/wordpress-username-disclosure-vulnerability/)
     - [Github] (https://github.com/WordPress/WordPress/blob/4.2-branch/wp-login.php)
     
- 2. Vulnerability Name or ID : Cross-site Scripting in TwentyFifteen theme in edit post
+ 2. Vulnerability Name or ID : Cross-site Scripting in TwentyFifteen theme in edit post (ID: 8111)
     - [ ] Summary: XSS vulnerability in the text editor box in writing/editing posts.  
     - Vulnerability types:  XSS
     - Tested in version: 4.2.2
@@ -33,7 +33,7 @@ Time spent: 8 hours spent in total
   - [ ] Affected source code:
      - [Link] (https://core.trac.wordpress.org/browser/branches/4.2/src/wp-includes/class-wp-editor.php?rev=33361)
     
-3. Vulnerability Name or ID : Cross-site Scripting in TwentyFifteen theme in title of post
+3. Vulnerability Name or ID : Cross-site Scripting in TwentyFifteen theme in title of post with image filename (ID: 7168)
   - [ ] Summary: XSS vulnerability in the text editor box in title of the posts. 
     - Vulnerability types: XSS
     - Tested in version: 4.2.2
